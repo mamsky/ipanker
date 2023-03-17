@@ -1,3 +1,9 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
  class calculator
  
  {
@@ -16,7 +22,7 @@
 	 {
 		 return a + b;
 	 }
-	 	 static int Pengurangan (int a, int b)
+	 	 static int pengurangan (int a, int b)
 	 {
 		 return a - b;
 	 }
